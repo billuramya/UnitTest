@@ -1,0 +1,14 @@
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\bin\Debug\net8.0\UnitTestCode.exe
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\bin\Debug\net8.0\UnitTestCode.deps.json
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\bin\Debug\net8.0\UnitTestCode.runtimeconfig.json
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\bin\Debug\net8.0\UnitTestCode.dll
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\bin\Debug\net8.0\UnitTestCode.pdb
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\obj\Debug\net8.0\UnitTestCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\obj\Debug\net8.0\UnitTestCode.AssemblyInfoInputs.cache
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\obj\Debug\net8.0\UnitTestCode.AssemblyInfo.cs
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\obj\Debug\net8.0\UnitTestCode.csproj.CoreCompileInputs.cache
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\obj\Debug\net8.0\UnitTestCode.dll
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\obj\Debug\net8.0\refint\UnitTestCode.dll
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\obj\Debug\net8.0\UnitTestCode.pdb
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\obj\Debug\net8.0\UnitTestCode.genruntimeconfig.cache
+C:\Users\billu\source\repos\UnitTestCode\UnitTestCode\obj\Debug\net8.0\ref\UnitTestCode.dll
